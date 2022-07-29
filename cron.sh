@@ -1,4 +1,4 @@
-service cron start && luigid && env >> /etc/environment
+service cron start && luigid 
 
 
 
