@@ -1,0 +1,14 @@
+luigi
+elasticsearch==7.17.0
+rdflib
+requests 
+sqlalchemy 
+ftfy 
+rdflib-jsonld
+soneti_tasks
+geopy
+gsitk
+psaw
+nltk
+pycountry
+jsonlines
