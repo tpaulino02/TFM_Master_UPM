@@ -1,0 +1,4 @@
+service cron start && luigid 
+
+
+
